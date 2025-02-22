@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35151b8d-1fe5-4362-961f-ed573c4ba7c4" name="Changes" comment="" />
+    <list default="true" id="20f808f9-1019-429c-b2e3-2b01ce9468a9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2tOiWSqAp6kDmZn3w8BqFqxQmMc" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2tOihHXHnpH2kXhfcFxIIDaqR5x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,20 +18,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/muham/OneDrive/Masaüstü/leet/-My-algorithm-exercises/Combination Sum II/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/muham/OneDrive/Masaüstü/leet/-My-algorithm-exercises/Length of Last Word/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="35151b8d-1fe5-4362-961f-ed573c4ba7c4" name="Changes" comment="" />
-      <created>1740229554156</created>
+      <changelist id="20f808f9-1019-429c-b2e3-2b01ce9468a9" name="Changes" comment="" />
+      <created>1740229640036</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740229554156</updated>
+      <updated>1740229640036</updated>
     </task>
     <servers />
   </component>
